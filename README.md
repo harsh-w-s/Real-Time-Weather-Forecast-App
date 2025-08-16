@@ -23,6 +23,9 @@ It fetches real-time weather data from the **OpenWeatherMap API** and displays d
 
 ## 📸 Screenshots
 
+<img width="397" height="497" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/ef6544ea-a496-4063-aa39-55bf465a60a0" />
+
+<img width="400" height="497" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/d86e83ad-7af7-41a5-b765-cda604d816f9" />
 
 ---
 
