@@ -22,10 +22,18 @@ It fetches real-time weather data from the **OpenWeatherMap API** and displays d
 ---
 
 ## 📸 Screenshots
+<img width="1919" height="1017" alt="Screenshot 2025-08-16 143733" src="https://github.com/user-attachments/assets/ab246825-9036-42d3-bd63-64ea7bb7dd4a" />
 
-<img width="397" height="497" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/ef6544ea-a496-4063-aa39-55bf465a60a0" />
 
-<img width="400" height="497" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/d86e83ad-7af7-41a5-b765-cda604d816f9" />
+<img width="1919" height="1016" alt="Screenshot 2025-08-16 143746" src="https://github.com/user-attachments/assets/21a16d48-8e15-488c-983f-bae51b5ca0cc" />
+
+
+https://github.com/user-attachments/assets/19c58b40-e0f7-41ae-b61c-b5b68ca0d86c
+
+
+
+
+
 
 ---
 
